@@ -69,7 +69,7 @@ Aplikacja sprawdza, czy w systemie jest dostępny program `ffmpeg` – niezbędn
 
 * **Windows**
 
-  1. Pobierz statyczny build FFmpeg z [https://ffmpeg.org/download.html#build-windows](https://ffmpeg.org/download.html#build-windows)
+  1. Pobierz statyczny build FFmpeg z [https://ffmpeg.org/download.html#build-windows]([https://ffmpeg.org/download.html#build-windows](https://www.gyan.dev/ffmpeg/builds/))
   2. Rozpakuj archiwum, np. do `C:\ffmpeg\`
   3. Dodaj ścieżkę `C:\ffmpeg\bin` do zmiennej środowiskowej `PATH`:
 
